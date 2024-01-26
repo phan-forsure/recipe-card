@@ -5,3 +5,18 @@
     box-sizing: border-box;
     font-family: Raleway, sans-serif;
 }
+
+:root {
+    /* text */
+    --text-color: rgb(44, 40, 76);
+    --logo-color: rgb(35, 35, 107);
+    /* background colors */
+    --primary-background: whitesmoke;
+}
+
+article {
+    margin: 20;
+    width: 1000;
+    height: 1000;
+    background-image: url(13206324-Top-view-of-Japanese-noodle-soup-ramen-in-white-bowl-with-noodles-meat-broth-sliced-roasted-pork-narutomaki.jpg);
+}
